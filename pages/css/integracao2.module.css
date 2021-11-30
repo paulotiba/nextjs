@@ -1,0 +1,26 @@
+#integracao2 {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
+
+.vermelha{
+    background-color: cyan;
+    color: #f30;
+}
+
+.azul {
+    background-color: coral;
+    color: #03a;
+}
+
+.branco{
+    background-color: rgb(228, 220, 209);
+    color: #ffa;
+    font-size: 2rem;
+}
