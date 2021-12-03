@@ -6,7 +6,7 @@ export default function Estilo(props) {
                 color: props.color,
                 textAlign: props.direita ? "right" : "left"
 
-        }}>
+            }}>
                 Texto modo estilo condicional css
             </h1>
         </div>
