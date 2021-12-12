@@ -12,7 +12,11 @@ export default function condicional1 () {
             <SomentePar numero={7} />
             <SomentePar numero={8} />
             <SomentePar numero={10} />
+            <SomentePar numero={13} />
+            <SomentePar numero={16} />
             <SomentePar numero={18} />
+            <SomentePar numero={32} />
+            <SomentePar numero={44} />
         </div>
     )
 }
