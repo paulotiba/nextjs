@@ -8,6 +8,8 @@ export default function Pai(props) {
             <Filho nome="Paulo" familia={props.familia} />
             <Filho nome="João" familia={props.familia} />
             <Filho {...props}   nome="Gabriel" />
+            <Filho {...props} nome="gaudino"/> 
+            <Filho {...props} nome="Alex" /> 
 
         </div>
     )
